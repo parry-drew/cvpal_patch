@@ -1,0 +1,13 @@
+#N canvas 377 159 450 300 10;
+#X obj 44 65 noteout;
+#X obj 122 65 noteout;
+#X obj 200 64 noteout;
+#X obj 275 63 noteout;
+#X msg 44 43 36 100 11;
+#X msg 122 43 38 100 11;
+#X msg 200 42 40 100 11;
+#X msg 275 41 46 100 11;
+#X connect 4 0 0 0;
+#X connect 5 0 1 0;
+#X connect 6 0 2 0;
+#X connect 7 0 3 0;
